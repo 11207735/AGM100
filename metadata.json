@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix AGM Travel CustomTkinter Design",
+  "description": "A sleek, modern management panel for AGM Travel, replicating the CustomTkinter desktop interface layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
